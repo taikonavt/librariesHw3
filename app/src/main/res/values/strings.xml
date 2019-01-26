@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LibrariesHw3</string>
+    <string name="convert_file">Convert jpg to png</string>
+    <string name="complete_msg">Converting is complete</string>
+    <string name="permissions_denied">Sorry, App needs permissions</string>
+    <string name="error_msg">Converting is error</string>
+    <string name="cancel">Cancel</string>
+    <string name="converting_in_progress">Converting &#8230;</string>
+    <string name="cancel_msg">Converting was canceled</string>
+</resources>
